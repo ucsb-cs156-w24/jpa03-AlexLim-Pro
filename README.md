@@ -1,6 +1,8 @@
-# STARTER-jpa03
+# jpa03-alexlimpro
 
 Running at: <https://jpa03-alexlimpro.dokku-02.cs.ucsb.edu>
+
+GitHub Pages: <https://ucsb-cs156-w24.github.io/jpa03-AlexLim-Pro>
 
 # Configuring GitHub Pages for the documentation
 
